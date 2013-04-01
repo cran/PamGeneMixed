@@ -1,7 +1,6 @@
-217916a063cf3670ab676034afcf119b *DESCRIPTION
-16fc22a0c148b16d076c09ae52aeedbf *LICENCE
+684c4d4c8c22a5c7f25ecae32099a2e2 *DESCRIPTION
 fc8d21807b1140ba1568d4110d0a2222 *NAMESPACE
-4734b3a2d5f24821162ccd75e6a6f53c *NEWS
+6d3db0c5fdcf978f68a40b5b7ea850ed *NEWS
 ef780d8b6a6342fdd9153729846302bc *R/AllClasses.R
 bcf03a36f4ad8c0b226b90dc7febf220 *R/AllGenerics.R
 5b383dc2fefd49036bf2452ebbcd360a *R/AutoPamGeneMix.R
@@ -14,12 +13,11 @@ f8497d3b918dd1a5ff0c25cbf1002631 *R/PreProcessPam.R
 a134d081d8705808d29fabc4c41ebf97 *R/VisualizePamGeneMix.R
 852cd2c825ffcf2407d890d1a53bfc9e *R/VolcanoPam.R
 d0008ef7311aae32766bd0c1a2f684b6 *R/testVarCom.R
-21e82d13e783a7dfffa7565067192102 *R/zzz.R
 8a4c202ab75b0f8b8fb0ba48e47a2a63 *configure.win
 82dec1d8a8e13963fbb6b19094dda22a *data/PamChipData.RData
 705169c73a1b1919d223e93ca1b0221e *data/TestPepModelData.RData
-319f2df521c7620ead8f6852ec472d7d *inst/doc/PamGeneMixed.Rnw
-b4f338b296dae0fa2bf87352b24e67e9 *inst/doc/PamGeneMixed.pdf
+5126dbbe68cf5d9f85b139ff67af2e31 *inst/doc/PamGeneMixed.Rnw
+f1615f3868c948ac29b9a27334674b24 *inst/doc/PamGeneMixed.pdf
 6bd8656fd89f24076db857449d7ee1d9 *inst/doc/data/ResultsAll.RData
 b17a5b94c042f28fc802397ad49aca1d *man/AutoPamGeneMix.Rd
 b509b8ce74626b02206d082cfdf30926 *man/CleanedPamData-class.Rd

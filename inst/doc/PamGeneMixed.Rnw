@@ -27,7 +27,7 @@
 
 
 
-\title{Using the \texttt{PamGeneMixed} Package (version 1.02)}
+\title{Using the \texttt{PamGeneMixed} Package (version 1.03)}
 \author{Pushpike Thilakarathne \\ I-BioStat, \\University of Hesselt\\ Belgium}
 
 \maketitle
